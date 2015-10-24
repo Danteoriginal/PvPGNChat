@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"commandsStartedWith:using:" : "JMaestri 10/27/2013 03:41",
+		"isAbstractClass" : "JulianMaestri 10/22/2013 14:37" },
+	"instance" : {
+		"acceptUserEmoteMessage:" : "JulianMaestri 10/22/2013 14:41",
+		"acceptUserMessage:" : "JulianMaestri 10/22/2013 14:41",
+		"accountManager" : "JMaestri 10/25/2013 00:04",
+		"commandsStartedWith:using:" : "JMaestri 10/27/2013 12:43",
+		"execute:" : "JMaestri 10/27/2013 12:46",
+		"finalize" : "JMaestri 10/27/2013 03:15",
+		"process:" : "JMaestri 10/27/2013 12:45",
+		"update:" : "JMaestri 10/25/2013 00:37" } }

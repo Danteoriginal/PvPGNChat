@@ -1,0 +1,1 @@
+An UnknownCommand is the command object created when an unknown command name is entered.

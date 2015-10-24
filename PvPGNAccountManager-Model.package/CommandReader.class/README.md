@@ -1,0 +1,1 @@
+A CommandReader is reads commands from a chat, and executes them if they match a command on the ChatCommand hierarchy.

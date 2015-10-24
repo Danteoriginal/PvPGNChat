@@ -1,0 +1,14 @@
+{
+	"category" : "PvPGNAccountManager-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ExecutionFailed",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "PvPGNAccountManager-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "GetRecordStrategy",
+	"pools" : [
+		 ],
+	"super" : "RecordManagementStrategy",
+	"type" : "normal" }

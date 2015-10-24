@@ -1,0 +1,14 @@
+{
+	"category" : "PvPGNAccountManager-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AddDotaTournamentPoints",
+	"pools" : [
+		 ],
+	"super" : "AddTournamentPoints",
+	"type" : "normal" }

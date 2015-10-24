@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"for:of:" : "JMaestri 10/26/2013 00:00" },
+	"instance" : {
+		"acceptNullRecordOn:" : "JMaestri 10/26/2013 00:14",
+		"acceptPvPGNRecordOn:" : "JMaestri 10/26/2013 00:29",
+		"evaluateOn:" : "JMaestri 10/27/2013 01:46",
+		"initializeFor:of:" : "JMaestri 10/26/2013 00:00" } }

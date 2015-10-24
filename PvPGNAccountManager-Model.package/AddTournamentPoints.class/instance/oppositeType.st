@@ -1,0 +1,4 @@
+accessing
+oppositeType
+
+	self subclassResponsibility

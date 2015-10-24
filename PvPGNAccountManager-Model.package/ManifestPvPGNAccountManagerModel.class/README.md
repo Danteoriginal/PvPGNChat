@@ -1,0 +1,1 @@
+A ManifestPvPGNAccountManagerModel is created by the critics browser.

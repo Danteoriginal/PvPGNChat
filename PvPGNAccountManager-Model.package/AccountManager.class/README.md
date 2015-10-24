@@ -1,0 +1,1 @@
+An AccountManager is a chat bot implementation, whith the objective of managing user accounts acting as a facade of the command /set that is insecure for most administrators to use.

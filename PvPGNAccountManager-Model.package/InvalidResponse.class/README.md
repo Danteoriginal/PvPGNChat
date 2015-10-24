@@ -1,0 +1,1 @@
+InvalidResponse is an exception signaled when the response obtained was no among the expected responses.

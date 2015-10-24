@@ -1,0 +1,19 @@
+{
+	"category" : "PvPGNAccountManager-Model",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TChatMessageVisitor classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"amount",
+		"user",
+		"chat",
+		"replyMethod" ],
+	"name" : "AddTournamentPoints",
+	"pools" : [
+		 ],
+	"super" : "ChatCommand",
+	"traitcomposition" : "TChatMessageVisitor",
+	"type" : "normal" }

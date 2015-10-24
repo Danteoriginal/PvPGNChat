@@ -1,0 +1,4 @@
+testing
+isNamed: aCommandName
+
+	^ false

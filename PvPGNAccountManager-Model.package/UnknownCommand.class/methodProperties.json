@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"commandName" : "JMaestri 10/27/2013 03:36",
+		"commandSyntax" : "JMaestri 10/27/2013 04:41",
+		"isAbstractClass" : "JMaestri 10/22/2013 23:22",
+		"isNamed:" : "JMaestri 10/22/2013 23:26" },
+	"instance" : {
+		"arguments" : "JMaestri 10/22/2013 23:19",
+		"commandName" : "JMaestri 10/27/2013 03:31",
+		"executeOn:" : "JMaestri 10/25/2013 00:01",
+		"initializeFrom:named:arguments:" : "JMaestri 10/25/2013 00:27" } }

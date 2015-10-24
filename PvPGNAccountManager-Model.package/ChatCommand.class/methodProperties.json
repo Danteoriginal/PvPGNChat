@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"buildFrom:named:arguments:" : "JMaestri 11/16/2013 01:03",
+		"commandAliases" : "JMaestri 10/27/2013 03:24",
+		"commandName" : "JMaestri 10/27/2013 03:24",
+		"commandSyntax" : "JMaestri 10/27/2013 03:54",
+		"from:named:arguments:" : "JMaestri 10/22/2013 23:22",
+		"isAbstractClass" : "JMaestri 10/22/2013 23:23",
+		"isNamed:" : "JMaestri 10/27/2013 12:41" },
+	"instance" : {
+		"commandName" : "JMaestri 10/27/2013 03:23",
+		"commandSyntax" : "JMaestri 10/27/2013 03:59",
+		"executeOn:" : "JMaestri 10/25/2013 00:01",
+		"initializeFrom:named:arguments:" : "JMaestri 10/24/2013 15:55",
+		"sender" : "JMaestri 10/27/2013 03:21",
+		"signalInvalidSyntax" : "JMaestri 10/27/2013 05:09" } }

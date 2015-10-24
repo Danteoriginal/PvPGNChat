@@ -1,0 +1,4 @@
+visitor
+acceptUnknownResponseOn: aPvPGNErrorMessage
+
+	InvalidResponse signal

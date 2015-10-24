@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"rejectClasses" : "JMaestri 10/27/2013 03:18",
+		"rejectRules" : "JMaestri 10/27/2013 03:18",
+		"ruleAbstractClassRuleV1FalsePositive" : "JMaestri 10/27/2013 03:18",
+		"ruleClassNotReferencedRuleV1FalsePositive" : "JMaestri 10/27/2013 04:05",
+		"ruleMethodHasNoTimeStampRuleV1FalsePositive" : "JMaestri 10/27/2013 05:25" },
+	"instance" : {
+		 } }

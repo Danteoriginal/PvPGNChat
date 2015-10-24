@@ -1,0 +1,1 @@
+A RecordManagementStrategy represents the action of interacting a record value from the chat

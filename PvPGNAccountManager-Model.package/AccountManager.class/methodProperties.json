@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"forChat:" : "JMaestri 10/27/2013 04:02",
+		"isAbstractClass" : "JulianMaestri 10/22/2013 14:37" },
+	"instance" : {
+		"acceptServerErrorMessage:" : "JMaestri 10/27/2013 04:35",
+		"chat" : "JMaestri 10/27/2013 02:39",
+		"doExclusive:" : "JMaestri 10/27/2013 05:25",
+		"finalize" : "JMaestri 10/27/2013 03:14",
+		"get:of:" : "JMaestri 10/27/2013 05:25",
+		"initializeForChat:" : "JMaestri 10/27/2013 04:02",
+		"messageQueue" : "JMaestri 10/27/2013 02:33",
+		"set:of:to:" : "JMaestri 10/27/2013 04:05",
+		"update:" : "JMaestri 10/25/2013 00:32" } }

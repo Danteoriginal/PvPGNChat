@@ -1,0 +1,4 @@
+visitor
+acceptNullRecordOn: aPvPGNErrorMessage
+
+	InvalidResponse signal

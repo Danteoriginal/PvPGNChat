@@ -1,0 +1,15 @@
+{
+	"category" : "PvPGNAccountManager-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"name",
+		"arguments" ],
+	"name" : "UnknownCommand",
+	"pools" : [
+		 ],
+	"super" : "ChatCommand",
+	"type" : "normal" }

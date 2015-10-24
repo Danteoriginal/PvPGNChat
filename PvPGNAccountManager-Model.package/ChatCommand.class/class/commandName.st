@@ -1,0 +1,4 @@
+accessing
+commandName
+
+	self subclassResponsibility

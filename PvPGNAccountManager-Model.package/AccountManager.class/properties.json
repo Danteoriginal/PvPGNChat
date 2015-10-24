@@ -1,0 +1,18 @@
+{
+	"category" : "PvPGNAccountManager-Model",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TChatMessageVisitor classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"chat",
+		"mutex",
+		"messageQueue" ],
+	"name" : "AccountManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "TChatMessageVisitor",
+	"type" : "normal" }

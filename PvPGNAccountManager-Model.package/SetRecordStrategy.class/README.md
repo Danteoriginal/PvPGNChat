@@ -1,0 +1,1 @@
+A SetRecordStrategy sets the current value of a record

@@ -1,0 +1,14 @@
+{
+	"category" : "PvPGNAccountManager-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AddCgTournamentPoints",
+	"pools" : [
+		 ],
+	"super" : "AddTournamentPoints",
+	"type" : "normal" }

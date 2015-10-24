@@ -1,0 +1,17 @@
+{
+	"category" : "PvPGNAccountManager-Model",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TPvPGNErrorMessageVisitor classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"key",
+		"user" ],
+	"name" : "RecordManagementStrategy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "TPvPGNErrorMessageVisitor",
+	"type" : "normal" }

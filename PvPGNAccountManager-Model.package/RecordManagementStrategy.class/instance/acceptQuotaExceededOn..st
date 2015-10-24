@@ -1,0 +1,4 @@
+visitor
+acceptQuotaExceededOn: aPvPGNErrorMessage
+
+	InvalidResponse signal

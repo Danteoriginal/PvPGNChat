@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"for:of:setTo:" : "JMaestri 10/26/2013 00:09" },
+	"instance" : {
+		"acceptInvalidUserOn:" : "JMaestri 10/27/2013 05:13",
+		"acceptRecordSetSuccessfullyOn:" : "JMaestri 10/27/2013 03:01",
+		"evaluateOn:" : "JMaestri 10/27/2013 01:46",
+		"initializeFor:of:setTo:" : "JMaestri 10/26/2013 00:08" } }

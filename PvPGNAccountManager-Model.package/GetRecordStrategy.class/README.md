@@ -1,0 +1,1 @@
+A GetRecordStrategy obtains the current value of a record.
