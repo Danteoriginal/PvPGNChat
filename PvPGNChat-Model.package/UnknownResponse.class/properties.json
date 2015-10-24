@@ -1,0 +1,14 @@
+{
+	"category" : "PvPGNChat-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"message" ],
+	"name" : "UnknownResponse",
+	"pools" : [
+		 ],
+	"super" : "PvPGNErrorMessage",
+	"type" : "normal" }

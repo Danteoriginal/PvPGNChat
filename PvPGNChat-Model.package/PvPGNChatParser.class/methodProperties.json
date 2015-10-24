@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"for:" : "JulianMaestri 1/24/2013 19:54" },
+	"instance" : {
+		"initializeFor:" : "JMaestri 10/24/2013 23:10",
+		"process:" : "JMaestri 10/24/2013 23:05",
+		"processChannelChangeMessageStrategy" : "JMaestri 10/24/2013 22:18",
+		"processChannelJoinMessageStrategy" : "JMaestri 10/24/2013 22:29",
+		"processChannelLeaveMessageStrategy" : "JMaestri 10/24/2013 22:29",
+		"processChannelUserListMessageStrategy" : "JMaestri 10/24/2013 22:21",
+		"processGenericMessageStrategy" : "JMaestri 10/24/2013 22:23",
+		"processServerAnnounceMessageStrategy" : "JMaestri 10/24/2013 23:03",
+		"processServerConnectionSuccessfulMessageStrategy" : "JMaestri 10/24/2013 22:23",
+		"processServerErrorMessageStrategy" : "JMaestri 10/24/2013 22:22",
+		"processServerInfoMessageStrategy" : "JMaestri 10/24/2013 22:23",
+		"processUserEmoteMessageStrategy" : "JMaestri 10/24/2013 22:24",
+		"processUserMessageStrategy" : "JMaestri 10/24/2013 22:25",
+		"processUserOutgoingPrivateMessageStrategy" : "JMaestri 10/24/2013 22:25",
+		"processUserPrivateMessageStrategy" : "JMaestri 10/24/2013 22:26",
+		"processUserStatusUpdateMessageStrategy" : "JMaestri 10/26/2013 01:50",
+		"quotedMessageMatcher" : "JulianMaestri 10/17/2013 20:18",
+		"strategyFor:" : "JMaestri 10/24/2013 23:05",
+		"userCodeMatcher" : "JMaestri 10/24/2013 23:16",
+		"userCodeMessageMatcherFor:" : "JMaestri 10/24/2013 23:07" } }

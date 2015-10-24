@@ -1,0 +1,1 @@
+A ChannelUserListMessage is sent by the chat after joining a channel, to show the current users in that channel.

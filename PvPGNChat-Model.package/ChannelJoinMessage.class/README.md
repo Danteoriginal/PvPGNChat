@@ -1,0 +1,1 @@
+A ChannelJoinMessage is sent by the chat when a user joins the channel.

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"forChat:" : "JulianMaestri 10/19/2013 00:29",
+		"isAbstractClass" : "JulianMaestri 10/22/2013 14:37" },
+	"instance" : {
+		"acceptChannelChangeMessage:" : "JulianMaestri 10/17/2013 19:22",
+		"acceptChannelJoinMessage:" : "JulianMaestri 10/17/2013 19:22",
+		"acceptChannelLeaveMessage:" : "JulianMaestri 10/17/2013 19:22",
+		"acceptChannelUserListMessage:" : "JulianMaestri 10/17/2013 19:22",
+		"channel" : "JulianMaestri 10/19/2013 00:26",
+		"initializeForChat:" : "JulianMaestri 10/19/2013 00:31",
+		"update:" : "JMaestri 10/25/2013 00:32",
+		"users" : "JulianMaestri 10/19/2013 00:26" } }

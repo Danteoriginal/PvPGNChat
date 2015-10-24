@@ -1,0 +1,1 @@
+An UserStatusUpdateMessage is sent by the chat when the status (flags) of a user changes.

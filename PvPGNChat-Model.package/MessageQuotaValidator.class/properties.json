@@ -1,0 +1,20 @@
+{
+	"category" : "PvPGNChat-Model",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TChatMessageVisitor classTrait + TPvPGNErrorMessageVisitor classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"chat",
+		"messageQueue",
+		"quotaExceeded",
+		"semaphore",
+		"process" ],
+	"name" : "MessageQuotaValidator",
+	"pools" : [
+		 ],
+	"super" : "ChatInterface",
+	"traitcomposition" : "TChatMessageVisitor + TPvPGNErrorMessageVisitor",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "PvPGNChat-Model",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TChatMessageVisitor classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"users",
+		"channel" ],
+	"name" : "ChannelUserList",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "TChatMessageVisitor",
+	"type" : "normal" }

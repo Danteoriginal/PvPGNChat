@@ -1,0 +1,1 @@
+A TranscriptChatLog displays incomming messages in the transcript

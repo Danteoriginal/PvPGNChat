@@ -1,0 +1,4 @@
+accessing
+sender
+
+	self subclassResponsibility

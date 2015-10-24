@@ -1,0 +1,1 @@
+A ChatMessage is a message received from a chat

@@ -1,0 +1,4 @@
+accessing
+origin
+
+	self subclassResponsibility

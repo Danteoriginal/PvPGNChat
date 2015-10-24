@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "JulianMaestri 1/25/2013 00:50",
+		"testLongUserMessage" : "JulianMaestri 10/18/2013 02:09",
+		"testLongUserPrivateMessage" : "JulianMaestri 10/18/2013 02:07",
+		"testProcessChannelChangeMessageStrategy" : "JMaestri 10/24/2013 22:33",
+		"testProcessChannelJoinMessageStrategy" : "JMaestri 10/24/2013 22:33",
+		"testProcessChannelLeaveMessageStrategy" : "JMaestri 10/24/2013 22:33",
+		"testProcessChannelUserListMessageStrategy" : "JMaestri 10/24/2013 22:34",
+		"testProcessChannelUserStatusUpdateMessageStrategy" : "JMaestri 10/24/2013 23:19",
+		"testProcessGenericMessageStrategy" : "JMaestri 10/24/2013 22:37",
+		"testProcessServerAnnounceMessageStrategy" : "JMaestri 10/24/2013 22:49",
+		"testProcessServerConnectionSuccessfulMessageStrategy" : "JMaestri 10/24/2013 22:35",
+		"testProcessServerErrorMessageStrategy" : "JMaestri 10/24/2013 22:36",
+		"testProcessServerInfoMessageStrategy" : "JMaestri 10/24/2013 22:48",
+		"testProcessUserEmoteMessageStrategy" : "JMaestri 10/24/2013 22:36",
+		"testProcessUserMessageStrategy" : "JMaestri 10/24/2013 22:37",
+		"testProcessUserOutgoingPrivateMessageStrategy" : "JMaestri 10/24/2013 23:04",
+		"testProcessUserPrivateMessageStrategy" : "JMaestri 10/24/2013 22:37",
+		"testProcessUserStatusUpdateMessageStrategy" : "JMaestri 10/24/2013 23:12" } }

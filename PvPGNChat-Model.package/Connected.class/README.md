@@ -1,0 +1,1 @@
+Connected is the status representing that a PvPGNChat has established a connection and is logged in to the chat.

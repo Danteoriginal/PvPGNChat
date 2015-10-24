@@ -1,0 +1,1 @@
+A NotEnoughPermissions exception is signaled when attempting to use a command without the required permissions.

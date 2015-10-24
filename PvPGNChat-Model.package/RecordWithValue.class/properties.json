@@ -1,0 +1,15 @@
+{
+	"category" : "PvPGNChat-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"key",
+		"content" ],
+	"name" : "RecordWithValue",
+	"pools" : [
+		 ],
+	"super" : "PvPGNErrorMessage",
+	"type" : "normal" }

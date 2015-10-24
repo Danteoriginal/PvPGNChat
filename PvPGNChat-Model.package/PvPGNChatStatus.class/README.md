@@ -1,0 +1,1 @@
+A PvPGNChatStatus is the behaviour for the possible statuses of a PvPGNChat

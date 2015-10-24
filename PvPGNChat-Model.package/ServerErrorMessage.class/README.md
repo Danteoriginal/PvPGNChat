@@ -1,0 +1,1 @@
+A ServerErrorMessage is sent by the chat representing an error message.

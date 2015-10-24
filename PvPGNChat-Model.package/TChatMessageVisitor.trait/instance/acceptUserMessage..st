@@ -1,0 +1,2 @@
+visitor
+acceptUserMessage: aMessage

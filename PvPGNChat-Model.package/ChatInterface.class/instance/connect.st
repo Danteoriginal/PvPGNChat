@@ -1,0 +1,4 @@
+chat
+connect
+
+	self subclassResponsibility

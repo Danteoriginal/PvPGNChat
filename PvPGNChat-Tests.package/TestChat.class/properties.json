@@ -1,0 +1,14 @@
+{
+	"category" : "PvPGNChat-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TestChat",
+	"pools" : [
+		 ],
+	"super" : "ChatInterface",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptChannelChangeMessage:" : "JMaestri 10/24/2013 21:55",
+		"acceptChannelJoinMessage:" : "JMaestri 10/24/2013 21:55",
+		"acceptChannelLeaveMessage:" : "JMaestri 10/24/2013 21:55",
+		"acceptChannelUserListMessage:" : "JMaestri 10/24/2013 21:55",
+		"acceptServerAnnounceMessage:" : "JMaestri 10/24/2013 22:43",
+		"acceptServerConnectionSuccessfulMessage:" : "JMaestri 10/24/2013 21:55",
+		"acceptServerErrorMessage:" : "JMaestri 10/24/2013 21:55",
+		"acceptServerInfoMessage:" : "JMaestri 10/24/2013 21:55",
+		"acceptUnknownMessage:" : "JMaestri 10/24/2013 21:55",
+		"acceptUserEmoteMessage:" : "JMaestri 10/24/2013 21:55",
+		"acceptUserMessage:" : "JMaestri 10/24/2013 21:55",
+		"acceptUserOutgoingPrivateMessage:" : "JMaestri 10/24/2013 21:55",
+		"acceptUserPrivateMessage:" : "JMaestri 10/24/2013 21:55",
+		"acceptUserStatusUpdateMessage:" : "JMaestri 10/24/2013 21:55" } }

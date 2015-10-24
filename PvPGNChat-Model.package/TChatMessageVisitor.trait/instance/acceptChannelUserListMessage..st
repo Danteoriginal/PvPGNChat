@@ -1,0 +1,2 @@
+visitor
+acceptChannelUserListMessage: aMessage

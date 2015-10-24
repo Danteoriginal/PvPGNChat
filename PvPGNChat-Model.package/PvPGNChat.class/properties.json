@@ -1,0 +1,22 @@
+{
+	"category" : "PvPGNChat-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"server",
+		"port",
+		"password",
+		"socket",
+		"listenerProcess",
+		"loginName",
+		"shouldStopListenerProcess",
+		"parser",
+		"status" ],
+	"name" : "PvPGNChat",
+	"pools" : [
+		 ],
+	"super" : "ChatInterface",
+	"type" : "normal" }

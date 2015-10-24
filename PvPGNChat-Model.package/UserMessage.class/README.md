@@ -1,0 +1,1 @@
+An UserMessage is sent by the chat when a user sends a message

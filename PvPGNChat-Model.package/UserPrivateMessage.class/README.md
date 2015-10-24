@@ -1,0 +1,1 @@
+An UserPrivateMessage is sent by the chat when a users sends a private message to us.

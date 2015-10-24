@@ -1,0 +1,14 @@
+{
+	"category" : "PvPGNChat-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "NotEnoughPermissions",
+	"pools" : [
+		 ],
+	"super" : "PvPGNErrorMessage",
+	"type" : "normal" }

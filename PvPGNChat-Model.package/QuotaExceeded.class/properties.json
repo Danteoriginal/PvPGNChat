@@ -1,0 +1,14 @@
+{
+	"category" : "PvPGNChat-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "QuotaExceeded",
+	"pools" : [
+		 ],
+	"super" : "PvPGNErrorMessage",
+	"type" : "normal" }

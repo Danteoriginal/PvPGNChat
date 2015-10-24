@@ -1,0 +1,4 @@
+controlling
+enableChannelMessages
+
+	showJoinLeave := true

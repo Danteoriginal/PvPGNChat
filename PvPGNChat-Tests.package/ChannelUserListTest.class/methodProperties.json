@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "JulianMaestri 10/19/2013 01:13",
+		"testAcceptChannelChangeMessage" : "JulianMaestri 10/19/2013 01:01",
+		"testAcceptChannelJoinMessage" : "JulianMaestri 10/19/2013 01:03",
+		"testAcceptChannelLeaveMessage" : "JulianMaestri 10/19/2013 00:59",
+		"testAcceptChannelUserListMessage" : "JulianMaestri 10/19/2013 01:02" } }

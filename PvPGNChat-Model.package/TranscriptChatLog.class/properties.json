@@ -1,0 +1,16 @@
+{
+	"category" : "PvPGNChat-Model",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TChatMessageVisitor classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"showJoinLeave" ],
+	"name" : "TranscriptChatLog",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "TChatMessageVisitor",
+	"type" : "normal" }

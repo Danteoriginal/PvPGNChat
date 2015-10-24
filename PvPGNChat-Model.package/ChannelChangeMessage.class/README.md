@@ -1,0 +1,1 @@
+A ChannelChangeMessage is sent by the chat when the channel changes

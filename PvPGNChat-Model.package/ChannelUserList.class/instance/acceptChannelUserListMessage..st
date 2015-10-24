@@ -1,0 +1,4 @@
+visitor
+acceptChannelUserListMessage: aChannelUserListMessage
+
+	users add: aChannelUserListMessage content

@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"forChat:" : "JMaestri 10/22/2013 23:34",
+		"isAbstractClass" : "JulianMaestri 10/22/2013 14:37" },
+	"instance" : {
+		"acceptChannelChangeMessage:" : "JulianMaestri 10/17/2013 19:43",
+		"acceptChannelJoinMessage:" : "JulianMaestri 10/17/2013 19:44",
+		"acceptChannelLeaveMessage:" : "JulianMaestri 10/17/2013 19:45",
+		"acceptChannelUserListMessage:" : "JMaestri 10/24/2013 23:30",
+		"acceptServerAnnounceMessage:" : "JMaestri 10/24/2013 23:29",
+		"acceptServerErrorMessage:" : "JulianMaestri 10/17/2013 19:41",
+		"acceptServerInfoMessage:" : "JulianMaestri 10/17/2013 19:41",
+		"acceptUnknownMessage:" : "JMaestri 10/24/2013 23:39",
+		"acceptUserEmoteMessage:" : "JulianMaestri 10/17/2013 19:47",
+		"acceptUserMessage:" : "JulianMaestri 10/17/2013 19:47",
+		"acceptUserPrivateMessage:" : "JulianMaestri 10/17/2013 19:47",
+		"acceptUserStatusUpdateMessage:" : "JMaestri 10/24/2013 23:39",
+		"disableChannelMessages" : "JulianMaestri 10/17/2013 19:46",
+		"enableChannelMessages" : "JulianMaestri 10/17/2013 19:46",
+		"initialize" : "JulianMaestri 10/17/2013 19:45",
+		"update:" : "JMaestri 10/25/2013 00:32" } }

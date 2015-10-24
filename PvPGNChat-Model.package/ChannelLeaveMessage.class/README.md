@@ -1,0 +1,1 @@
+A ChannelLeaveMessage is sent by the chat when a user leaves the channel.

@@ -1,0 +1,1 @@
+An UserEmoteMessage is sent by the chat when a user emotes a message

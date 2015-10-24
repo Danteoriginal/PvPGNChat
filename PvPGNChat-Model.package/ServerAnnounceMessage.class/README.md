@@ -1,0 +1,1 @@
+A ServerAnnounceMessage is sent by the chat when the an admin sends an announcement

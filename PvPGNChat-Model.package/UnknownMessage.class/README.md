@@ -1,0 +1,1 @@
+An UnknownMessage is sent by the chat when a message format is not recognized

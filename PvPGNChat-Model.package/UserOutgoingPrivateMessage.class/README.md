@@ -1,0 +1,1 @@
+An UserOutgoingPrivateMessage is sent by the chat when we send a private message to another user

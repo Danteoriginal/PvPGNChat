@@ -1,0 +1,14 @@
+{
+	"category" : "PvPGNChat-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"chat" ],
+	"name" : "ChatMessage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

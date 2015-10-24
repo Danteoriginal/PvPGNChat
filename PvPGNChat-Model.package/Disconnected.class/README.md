@@ -1,0 +1,1 @@
+Disonnected is the status representing that a PvPGNChat is not connected or logged in.

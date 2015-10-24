@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"from:sentBy:containing:" : "JMaestri 10/24/2013 22:42",
+		"isAbstractClass" : "JMaestri 10/24/2013 22:40" },
+	"instance" : {
+		"accept:" : "JMaestri 10/27/2013 00:15",
+		"content" : "JMaestri 10/24/2013 22:42",
+		"initializeFrom:sentBy:containing:" : "JMaestri 10/24/2013 22:42",
+		"origin" : "JMaestri 10/24/2013 22:43",
+		"sender" : "JMaestri 10/24/2013 22:43" } }

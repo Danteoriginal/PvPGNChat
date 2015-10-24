@@ -1,0 +1,1 @@
+A MessageQuotaValidator is a decorator that queues outcoming messages and send them. If a QuotaExceededMessage is received, the sending stops for 5 seconds.

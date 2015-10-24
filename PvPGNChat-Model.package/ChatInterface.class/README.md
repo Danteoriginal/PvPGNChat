@@ -1,0 +1,1 @@
+ChatInterface is defines the methods to be implemented by ChatInterfaces

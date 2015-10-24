@@ -1,0 +1,15 @@
+{
+	"category" : "PvPGNChat-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"chat",
+		"userList" ],
+	"name" : "ChannelUserListTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

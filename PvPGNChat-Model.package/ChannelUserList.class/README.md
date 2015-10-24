@@ -1,0 +1,1 @@
+A ChannelUserList tracks users in the current channel of a chat.

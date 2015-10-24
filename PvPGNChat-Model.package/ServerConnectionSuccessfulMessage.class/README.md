@@ -1,0 +1,1 @@
+A ServerConnectionSuccessfulMessage is sent by the chat after successfully connecting to the server.
